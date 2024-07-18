@@ -1,7 +1,6 @@
 package com.infosiatec.lambda.P002_ExecuteAroundPattern;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
 import java.util.Scanner;
